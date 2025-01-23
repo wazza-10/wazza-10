@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [aakashshoraan.wixsite.com/portfolio](aakashshoraan.wixsite.com/portfolio)
 
-- 💬 Ask me about **React Native**
+- 💬 Ask me about **ReactJS**
 
 - 📫 How to reach me **aakashshoraan@gmail.com**
 
