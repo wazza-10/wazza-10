@@ -9,8 +9,6 @@
 
 - 🤝 I’m looking for help with **Cloud computing**
 
-- 👨‍💻 All of my projects are available at [aakashshoraan.wixsite.com/portfolio](aakashshoraan.wixsite.com/portfolio)
-
 - 💬 Ask me about **ReactJS**
 
 - 📫 How to reach me **aakashshoraan@gmail.com**
